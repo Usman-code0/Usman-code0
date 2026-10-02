@@ -34,11 +34,11 @@ An AI-powered project focused on trend analysis and forecasting.
 
 ## Education
 
-| Degree               | Institution              | Year        |
-|--------------------  |-------------             |-------------|
-  Matriculation        Govt Lab High School Kasur    2021 - 2023
-  Intermediate         Kips College Kasur            2023 - 2025
-| BS in Data Science | UET Lahore                  | 2025 – 2029 |
+| Degree               | Institution                | Year        |
+|----------------------|----------------------------|-------------|
+| Matriculation        | Govt Lab High School Kasur | 2021 - 2023 |
+| Intermediate         | Kips College Kasur         | 2023 - 2025 |
+| BS in Data Science   | UET Lahore                 | 2025 - 2029 |
 
 **Relevant Coursework:** Software Engineering, Data Structures and Algorithms, Database Systems,Introduction to Data Science , Object Oriented Programming
 
